@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://henningsadam.github.io/udemy-tic-tac-toe",
+  "homepage": "http://henningsadam.github.io/udemy-tic-tac-toe",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
